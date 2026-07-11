@@ -34,7 +34,7 @@ The data engineering pipeline leverages a strict layered modeling architecture i
 
 1.  **Inbound Layer:** Near-source replication of raw SAP tables.
 2.  **Harmonization Layer:** Standardization of fields, filtering, and preparation of reusable views.
-3.  **Propagation Layer:** Complex joins and business derivations (e.g., final source determination via SPK logic, MTS/MWO/DWO classifications).
+3.  **Propagation Layer:** Complex joins and business derivations.
 4.  **Fact Layer:** Definition of analytical facts and core measures like *Total Inventory Value* and *Safety Stock Value*.
 5.  **Reporting Layer:** The final consumption-ready analytic model exposed to Power BI.
 
