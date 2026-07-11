@@ -8,17 +8,17 @@ This project presents the end-to-end development of an enterprise-grade Product 
   <img src="img/System Overview.png" alt="System Architecture Diagram" width="500"/>
 </p>
 
-## 🎯 Business Objectives
+### 🎯 Business Objectives
 
 The primary goal is to provide consistent, traceable, and centralized reporting for business stakeholders. 
 
-### Key Deliverables:
+#### Key Deliverables:
 * **Data Integration:** Combine enterprise data from core SAP tables (e.g., MARC, MARA, MBEW, BOM, STPO).
 * **Centralized Business Logic:** Perform data cleansing, categorization, and rule application within a governed semantic layer.
 * **Seamless Connectivity:** Bridge the data warehouse with reporting tools using ODBC and HANA Database connectors.
 * **Interactive Analytics:** Deliver user-friendly dashboards for stock coverage, supply network mapping, and product overview.
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 | Technology | Purpose |
 | :--- | :--- |
@@ -28,7 +28,7 @@ The primary goal is to provide consistent, traceable, and centralized reporting 
 | **Microsoft Power BI** | Front-end interactive dashboard and visualization. |
 | **ODBC / DirectQuery** | Data connectivity for optimized consumption. |
 
-## 🏗️ System Architecture & Data Modeling
+### 🏗️ System Architecture & Data Modeling
 
 The data engineering pipeline leverages a strict layered modeling architecture in SAP Datasphere to ensure data integrity and traceability:
 
@@ -38,7 +38,7 @@ The data engineering pipeline leverages a strict layered modeling architecture i
 4.  **Fact Layer:** Definition of analytical facts and core measures like *Total Inventory Value* and *Safety Stock Value*.
 5.  **Reporting Layer:** The final consumption-ready analytic model exposed to Power BI.
 
-## 📈 Dashboard Features
+### 📈 Dashboard Features
 
 The Power BI consumption layer is divided into three highly interactive pages:
 
