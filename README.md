@@ -21,7 +21,7 @@ The primary goal is to provide consistent, traceable, and centralized reporting 
 ### 🌟 Business Impact & Value Delivered
 
 * **Targeted Regional Value:** Specifically tailored to support demand planning, stock coverage tracking, and operational visibility for Protective & Marine Coatings (PMC) stakeholders across the EMEA region.
-* **Automated Data Pipelines:** Replaced error-prone manual Excel uploads with direct system data, ensuring 100% data accuracy and eliminating visualization errors.
+* **Automated Data Pipelines:** Replaced error-prone manual Excel uploads with direct system data (e.g., pulling External Material Group data directly from the MARA table), ensuring 100% data accuracy and eliminating visualization errors.
 * **Secure, Scalable Access:** Designed dynamic Row-Level Security (RLS) using email-based mapping. This replaced rigid static technical users, enabling secure, scalable Data Access Control tailored to regional business users.
 * **Single Source of Truth:** Unified previously fragmented reporting into a single, governed semantic layer, drastically reducing the time required for data preparation and reconciliation.
 
@@ -45,13 +45,29 @@ The data engineering pipeline leverages a strict layered modeling architecture i
 4.  **Fact Layer:** Definition of analytical facts and core measures like *Total Inventory Value* and *Safety Stock Value*.
 5.  **Reporting Layer:** The final consumption-ready analytic model exposed to Power BI.
 
+---
+
 ### 📈 Dashboard Features
 
-The Power BI consumption layer is divided into three highly interactive pages:
+The Power BI consumption layer is divided into three highly interactive pages. 
 
-* 📌 **Product Management Overview:** A high-level summary of all products across plants, featuring dynamic filtering by region, plant, and material group.
-* 📦 **Stock Coverage Ratio:** Visualizes inventory sufficiency against safety stock, featuring KPIs for Total Inventory Value and stock distribution by planning strategy.
-* 🌍 **Supply Network Map:** Traces the flow of materials from their final source to destination plants, supporting supply chain analysis and batch size planning.
+#### 📌 1. Product Management Overview
+A high-level summary of all products across plants, featuring dynamic filtering by region, plant, and material group.
+<p align="center">
+  <img src="img/overview.png" alt="Product Management Overview Dashboard" width="800"/>
+</p>
+
+#### 📦 2. Stock Coverage Ratio
+Visualizes inventory sufficiency against safety stock, featuring KPIs for Total Inventory Value and stock distribution by planning strategy.
+<p align="center">
+  <img src="img/stock-coverage.png" alt="Stock Coverage Ratio Dashboard" width="800"/>
+</p>
+
+#### 🌍 3. Supply Network Map
+Traces the flow of materials from their final source to destination plants, supporting supply chain analysis and batch size planning.
+<p align="center">
+  <img src="img/supply-network.png" alt="Supply Network Map Dashboard" width="800"/>
+</p>
 
 ---
 *Developed as part of a Bachelor of Computer Science (Data Engineering) Final Year Project.*
