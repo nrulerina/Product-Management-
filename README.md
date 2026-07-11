@@ -1,4 +1,4 @@
-## 📊 Product Management Dashboard (SAP Datasphere & Power BI)
+<img width="1145" height="642" alt="image" src="https://github.com/user-attachments/assets/5bc582dc-a872-473f-86a9-773fe0f3c368" />## 📊 Product Management Dashboard (SAP Datasphere & Power BI)
 
 ### 🚀 Project Overview
 
@@ -52,7 +52,7 @@ The data engineering pipeline leverages a strict layered modeling architecture i
 The Power BI consumption layer is divided into three highly interactive pages. 
 
 #### 📌 1. Product Management Overview
-A high-level summary of all products across plants, featuring dynamic filtering by region, plant, and material group.
+A detailed tabular report providing product-level visibility across the network. The core table displays key operational attributes including Plant-Specific Material Status, MRP Group, Total Inventory Base (UoM), Category, Final Source, and Minimum Batch Size.
 <p align="center">
   <img src="img/overview.png" alt="Product Management Overview Dashboard" width="500"/>
 </p>
