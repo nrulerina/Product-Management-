@@ -58,13 +58,14 @@ A detailed tabular report providing product-level visibility across the network.
 </p>
 
 #### 📦 2. Stock Coverage Ratio
-Visualizes inventory sufficiency against safety stock, featuring KPIs for Total Inventory Value and stock distribution by planning strategy.
+Focuses on inventory sufficiency and production metrics. This page features visual breakdowns for "Qty by Production Strategy" and "Material Count by Category." It also includes detailed tables displaying Stock Coverage % by material, as well as Maximum and Minimum Batch Sizes (L) to support precise inventory planning.
 <p align="center">
   <img src="img/stock-coverage.png" alt="Stock Coverage Ratio Dashboard" width="500"/>
 </p>
 
 #### 🌍 3. Supply Network Map
-Traces the flow of materials from their final source to destination plants, supporting supply chain analysis and batch size planning.
+Provides comprehensive visibility into sourcing relationships across the supply chain. This page features a dedicated "Flow EMG Count by (Final Source to Plant)" visualization to trace material distribution. It is supported by detailed tables mapping Final Sources to the specific Plants Supported, alongside granular data on Total Inventory Qty by Region and Final Source.
+<p align="center">
 <p align="center">
   <img src="img/supply-network.png" alt="Supply Network Map Dashboard" width="500"/>
 </p>
