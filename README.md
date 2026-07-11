@@ -1,7 +1,7 @@
 # 📊 Enterprise Product Management Dashboard
 
 <p align="center">
-  <img src="img/System-Overview.png" alt="System Architecture Diagram" width="700"/>
+  <img src="img/System Overview.png" alt="System Architecture Diagram" width="700"/>
 </p>
 
 ## 🚀 Project Overview
