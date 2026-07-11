@@ -54,19 +54,19 @@ The Power BI consumption layer is divided into three highly interactive pages.
 #### 📌 1. Product Management Overview
 A high-level summary of all products across plants, featuring dynamic filtering by region, plant, and material group.
 <p align="center">
-  <img src="img/overview.png" alt="Product Management Overview Dashboard" width="600"/>
+  <img src="img/overview.png" alt="Product Management Overview Dashboard" width="500"/>
 </p>
 
 #### 📦 2. Stock Coverage Ratio
 Visualizes inventory sufficiency against safety stock, featuring KPIs for Total Inventory Value and stock distribution by planning strategy.
 <p align="center">
-  <img src="img/stock-coverage.png" alt="Stock Coverage Ratio Dashboard" width="600"/>
+  <img src="img/stock-coverage.png" alt="Stock Coverage Ratio Dashboard" width="500"/>
 </p>
 
 #### 🌍 3. Supply Network Map
 Traces the flow of materials from their final source to destination plants, supporting supply chain analysis and batch size planning.
 <p align="center">
-  <img src="img/supply-network.png" alt="Supply Network Map Dashboard" width="600"/>
+  <img src="img/supply-network.png" alt="Supply Network Map Dashboard" width="500"/>
 </p>
 
 ---
