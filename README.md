@@ -1,8 +1,8 @@
-# 📊 Enterprise Product Management Dashboard
+# 📊 Product Management Dashboard (SAP Datasphere & Power BI)
 
 ## 🚀 Project Overview
 
-This project presents the end-to-end development of an enterprise-grade Product Management Dashboard, completed as an industry-based Final Year Project in collaboration with PPG Coatings (Malaysia) Sdn. Bhd. It was built to solve the challenges of fragmented reporting logic and a heavy reliance on manual Excel uploads for data integration. By establishing a governed, centralized analytical layer, the solution extracts and processes operational data directly from the enterprise system to provide actionable insights for product, inventory, sourcing, and production analysis.
+This project presents the end-to-end development of an enterprise-grade Product Management Dashboard, completed as an **industry-based Final Year Project in collaboration with PPG Coatings (Malaysia) Sdn. Bhd**. It was built to solve the challenges of fragmented reporting logic and a heavy reliance on manual Excel uploads for data integration. By establishing a governed, centralized analytical layer, the solution extracts and processes operational data directly from the enterprise system to provide actionable insights for product, inventory, sourcing, and production analysis.
 
 <p align="center">
   <img src="img/System Overview.png" alt="System Architecture Diagram" width="500"/>
