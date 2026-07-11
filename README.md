@@ -1,4 +1,4 @@
-<img width="1145" height="642" alt="image" src="https://github.com/user-attachments/assets/5bc582dc-a872-473f-86a9-773fe0f3c368" />## 📊 Product Management Dashboard (SAP Datasphere & Power BI)
+## 📊 Product Management Dashboard (SAP Datasphere & Power BI)
 
 ### 🚀 Project Overview
 
