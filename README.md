@@ -13,7 +13,7 @@ This project presents the end-to-end development of an enterprise-grade Product 
 The primary goal is to provide consistent, traceable, and centralized reporting for business stakeholders. 
 
 #### Key Deliverables:
-* **Data Integration:** Combine enterprise data from core SAP tables (e.g., MARC, MARA, MBEW, BOM, STPO).
+* **Data Integration:** Combine enterprise data from core SAP tables.
 * **Centralized Business Logic:** Perform data cleansing, categorization, and rule application within a governed semantic layer.
 * **Seamless Connectivity:** Bridge the data warehouse with reporting tools using ODBC and HANA Database connectors.
 * **Interactive Analytics:** Deliver user-friendly dashboards for stock coverage, supply network mapping, and product overview.
