@@ -38,6 +38,10 @@ The data engineering pipeline leverages a strict layered modeling architecture i
 4.  **Fact Layer:** Definition of analytical facts and core measures like *Total Inventory Value* and *Safety Stock Value*.
 5.  **Reporting Layer:** The final consumption-ready analytic model exposed to Power BI.
 
+<p align="center">
+  <img src="img/Layered Modelling Aproach.png" alt="System Architecture Diagram" width="500"/>
+</p>
+
 ### 📈 Dashboard Features
 
 The Power BI consumption layer is divided into three highly interactive pages:
