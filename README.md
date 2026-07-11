@@ -39,7 +39,7 @@ The data engineering pipeline leverages a strict layered modeling architecture i
 5.  **Reporting Layer:** The final consumption-ready analytic model exposed to Power BI.
 
 <p align="center">
-  <img src="img/Layered Modelling Aproach.png" alt="System Architecture Diagram" width="500"/>
+  <img src="img/Layered Modelling Approach.png" alt="System Architecture Diagram" width="500"/>
 </p>
 
 ### 📈 Dashboard Features
