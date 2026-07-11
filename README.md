@@ -1,12 +1,12 @@
 # 📊 Enterprise Product Management Dashboard
 
-<p align="center">
-  <img src="img/System Overview.png" alt="System Architecture Diagram" width="700"/>
-</p>
-
 ## 🚀 Project Overview
 
 This project presents the end-to-end development of an enterprise-grade Product Management Dashboard. It was built to solve the challenge of fragmented reporting logic by establishing a governed, centralized analytical layer. The solution extracts and processes operational data to provide actionable insights for product, inventory, sourcing, and production analysis.
+
+<p align="center">
+  <img src="img/System Overview.png" alt="System Architecture Diagram" width="500"/>
+</p>
 
 ## 🎯 Business Objectives
 
